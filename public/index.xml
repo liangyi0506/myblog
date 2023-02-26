@@ -1,0 +1,60 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LIANGYI BLOG</title>
+        <link>http://liangyi.ink/</link>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liangyi1999@yeah.net (LinangYi)</managingEditor>
+            <webMaster>liangyi1999@yeah.net (LinangYi)</webMaster><copyright>LIANGYI</copyright><lastBuildDate>Thu, 23 Feb 2023 17:07:00 &#43;0800</lastBuildDate>
+            <atom:link href="http://liangyi.ink/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>hugo&#43;GithubPages创建网站的相关问题</title>
+    <link>http://liangyi.ink/hugo-githubpages%E5%88%9B%E5%BB%BA%E7%BD%91%E7%AB%99%E7%9A%84%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98/</link>
+    <pubDate>Thu, 23 Feb 2023 17:07:00 &#43;0800</pubDate>
+    <author>LinangYi</author>
+    <guid>http://liangyi.ink/hugo-githubpages%E5%88%9B%E5%BB%BA%E7%BD%91%E7%AB%99%E7%9A%84%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/hugo.png" referrerpolicy="no-referrer">
+            </div>一. 为网站添加图标，可以在标签页显示 利用 Favicon 为 Hugo 静态站点添加图标 - Bright&rsquo;s Blog (ibrights.github.io) 二. 修改网站中的各种图片——以LoveIt为例 post文章中的图片放在]]></description>
+</item>
+<item>
+    <title>Java面试八股文</title>
+    <link>http://liangyi.ink/java%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E6%96%87/</link>
+    <pubDate>Wed, 22 Feb 2023 17:47:00 &#43;0800</pubDate>
+    <author>LinangYi</author>
+    <guid>http://liangyi.ink/java%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E6%96%87/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/Java.jpg" referrerpolicy="no-referrer">
+            </div>Java面试八股文 一. Java基础 Java语言有哪些特点 Java 为纯面向对象的语言。它能够直接反应现实生活中的对象。 具有平台无关性。Java 利用 Java]]></description>
+</item>
+<item>
+    <title>几种常用的排序算法总结</title>
+    <link>http://liangyi.ink/%E5%87%A0%E7%A7%8D%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/</link>
+    <pubDate>Wed, 22 Feb 2023 17:46:00 &#43;0800</pubDate>
+    <author>LinangYi</author>
+    <guid>http://liangyi.ink/%E5%87%A0%E7%A7%8D%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/%e6%8e%92%e5%ba%8f%e7%ae%97%e6%b3%95.jpg" referrerpolicy="no-referrer">
+            </div>总结 时间复杂度 空间复杂度 是否每次遍历都能确定一个数的位置 适用 直接插入排序 O(n^2) 1 否 希尔排序 O(nlogn) 1 否 冒泡排序 O(n^2) 1 是 简单选择排序 O(n^2) 1 是 快速排序 O(nlogn) 1 是 归]]></description>
+</item>
+<item>
+    <title>github使用教程</title>
+    <link>http://liangyi.ink/github%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+    <pubDate>Sun, 19 Feb 2023 16:21:54 &#43;0800</pubDate>
+    <author>LinangYi</author>
+    <guid>http://liangyi.ink/github%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/GitHub-Logo.png" referrerpolicy="no-referrer">
+            </div>一. 什么是GitHub ​ github是一个基于git的代码托管平台，付费用户可以建私人仓库，我们一般的免费用户只能使用公共仓库，也就是代码要]]></description>
+</item>
+<item>
+    <title>Windows下使用hugo&#43;github pages 创建自己的个人博客</title>
+    <link>http://liangyi.ink/%E4%BD%BF%E7%94%A8hugo-githubpages%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Sat, 18 Feb 2023 17:36:54 &#43;0800</pubDate>
+    <author>LinangYi</author>
+    <guid>http://liangyi.ink/%E4%BD%BF%E7%94%A8hugo-githubpages%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/hugo.png" referrerpolicy="no-referrer">
+            </div>一. 为什么要创建自己的个人博客网站 ​ 我们在进行学习的时候，尤其是在学习新的知识的时候，要想牢固掌握，最好的办法就是将新学习的。 ​ 知识向别人讲]]></description>
+</item>
+</channel>
+</rss>

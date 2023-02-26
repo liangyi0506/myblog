@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - LiangYi Blog</title>
+        <link>http://liangyi.ink/tags/</link>
+        <description>Tags - Tag - LiangYi Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liangyi0506@yeah.net (LiangYi)</managingEditor>
+            <webMaster>liangyi0506@yeah.net (LiangYi)</webMaster><copyright>LiangYi</copyright><atom:link href="http://liangyi.ink/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
